@@ -1,4 +1,8 @@
 bitnami/milvus:latest
-akamai/sandbox:latest
-c121914yu/fastgpt:latest
 bitnami/minio:latest
+bitnami/etcd:latest
+c121914yu/fastgpt-sandbox:latest
+c121914yu/fastgpt:latest
+mongo:5.0.18
+mysql:8.0.36
+intel/oneapi:latest
