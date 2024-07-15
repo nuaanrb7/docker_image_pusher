@@ -1,6 +1,6 @@
-bitnami/milvus:latest
-bitnami/minio:latest
-bitnami/etcd:latest
+bitnami/milvus:2.4.3
+bitnami/minio:2023.3.20
+bitnami/etcd:3.5.5
 c121914yu/fastgpt-sandbox:latest
 c121914yu/fastgpt:latest
 mongo:5.0.18
