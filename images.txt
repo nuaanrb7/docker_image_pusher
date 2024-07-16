@@ -6,3 +6,4 @@ c121914yu/fastgpt:latest
 mongo:5.0.18
 mysql:8.0.36
 intel/oneapi:latest
+bitnami/milvus:latest
