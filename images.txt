@@ -1,1 +1,2 @@
-qwenllm/qwen:latest
+https://github.com/hogesako/text-embedding-api
+
