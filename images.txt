@@ -1,2 +1,1 @@
-https://github.com/hogesako/text-embedding-api
-
+hogesako/text-embedding-api:0.0.2
