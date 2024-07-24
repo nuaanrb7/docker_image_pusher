@@ -1,1 +1,2 @@
-hogesako/text-embedding-api:0.0.2
+zhangqinghua/fastgpt:master.20240721100751
+intel/oneapi:latest
