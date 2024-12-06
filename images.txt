@@ -1,1 +1,2 @@
-bitnami/milvus:2.4.17
+minio/minio:RELEASE.2023-03-20T20-16-18Z.fips
+milvusdb/milvus:v2.3.1
