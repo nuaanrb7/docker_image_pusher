@@ -1,1 +1,1 @@
-python:3.9.21-slim
+pytorch/pytorch:2.4.1-cuda11.8-cudnn9-runtime
