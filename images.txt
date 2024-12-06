@@ -1,1 +1,1 @@
-bitnami/milvus:sha256-807d6a782142d0cdc86647bfe92c0bea5ad13b379cadcdb681f4ee538e209190
+bitnami/milvus:2.4.17
