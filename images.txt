@@ -1,1 +1,1 @@
-valkey/valkey:8
+ragflow-es-01
