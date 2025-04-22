@@ -1,1 +1,1 @@
-ragflow-es-01
+elasticsearch:8.11.3
